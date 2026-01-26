@@ -1,8 +1,9 @@
 {
   "name": "ESPGif_ILI9488",
   "version": "1.7.0",
+  "improv": true,
   "new_install_prompt_erase": true,
-  "new_install_improv_wait_time": 30,
+  "new_install_improv_wait_time": 20,
   "builds": [
     {
       "chipFamily": "ESP32",
